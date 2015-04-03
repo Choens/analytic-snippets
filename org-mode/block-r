@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name : block-r
+# key: block-r
+# --
+#+begin_src R
+  $0
+#+end_src

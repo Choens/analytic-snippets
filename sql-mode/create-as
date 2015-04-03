@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name : create-as
+# key: create-as
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+--' Creates: $1
+--'
+create $1 as
+select
+from $0
+where
+;

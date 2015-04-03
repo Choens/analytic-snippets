@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name : select-r
+# key: select-r
+# contributor : Andy Choens
+# --
+--' $1
+--'
+--' $2
+--' @param foo
+--' #returns bar
+--'
+select
+from $0
+where
+;

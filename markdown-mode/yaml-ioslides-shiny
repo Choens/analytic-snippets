@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name : yaml-ioslides-shiny
+# key: yaml-ioslides-shiny
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: ioslides_presentation
+runtime: shiny
+---
+
+$0
+

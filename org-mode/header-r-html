@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name : header-r-html
+# key: header-r-html
+# contributor: Andy Choens andy.choens@gmail.com
+# --
+#+TITLE: $1
+#+AUTHOR: $2
+#+DATE: $3
+#+PROPERTY: session *R*
+#+STARTUP: hideblocks
+#+INFOJS_OPT: view:showall toc:nil ltoc:nil ftoc:true mouse:underline
+#+LINK_HOME: $4
+#+LINK_UP: $5
+#+OPTIONS: num:nil
+
+$0

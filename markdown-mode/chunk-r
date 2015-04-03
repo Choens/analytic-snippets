@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name : chunk-r
+# key: chunk-r
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+\`\`\`{r $0}
+
+\`\`\`

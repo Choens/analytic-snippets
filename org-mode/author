@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : Author
+# name: Author
 # key: author
-#contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+# contributor: Andy Choens andy.choens@gmail.com
 # --
-#+AUTHOR: ${1:`user-full-name`}
+#+AUTHOR: ${1:Andy Choens}

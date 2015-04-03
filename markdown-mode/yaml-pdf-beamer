@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name : yaml-pdf-beamer
+# key: yaml-pdf-beamer
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: beamer_presentation
+---
+
+$0

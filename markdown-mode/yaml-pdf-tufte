@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name : yaml-pdf-tufte
+# key: yaml-pdf-tufte
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: rmarkdown::tufte_handout
+---
+
+$0

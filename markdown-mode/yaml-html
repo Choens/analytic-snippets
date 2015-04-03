@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name : yaml-html
+# key: yaml-html
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: html_document
+---
+
+$0

@@ -23,3 +23,20 @@ folder to contain my LaTeX or Rmd files. I like to have the same
 strucuture and sections in each of my files. All boilerplate and all
 repetitive. The goal of the "Analytic Toolbox" series, is to provide
 as much of this boilerplate as possible.
+
+
+## Thanks To:
+
+https://bitbucket.org/kjhealy/emacs-starter-kit/src/e9e56bbef40725082effe1343802a3be90142606/snippets/org-mode/?at=master
+
+https://github.com/AndreaCrotti/yasnippet-snippets/tree/master
+
+https://github.com/kjhealy/emacs-starter-kit/tree/master/snippets
+
+https://github.com/AndreaCrotti/yasnippet-snippets
+
+
+https://capitaomorte.github.io/yasnippet/snippet-development.html
+
+
+http://sachachua.com/blog/2015/01/thinking-make-better-use-yasnippet-emacs-workflow/

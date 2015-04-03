@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name : for(
+# key: for(
+# Andy Choens andy.choens@gmail.com
+# --
+for( $1 in $2 ) {
+    $0
+}    ## $1 in $2

@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name : yaml-slidy
+# key: yaml-slidy
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: slidy_presentation
+---
+
+$0
+

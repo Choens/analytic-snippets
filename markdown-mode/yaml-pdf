@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name : yaml-pdf
+# key: yaml-pdf
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: pdf_document
+---
+
+$0

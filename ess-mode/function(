@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name : function(
+# key: function(
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+#' $1
+#' $2
+#'
+#' @param foo
+#' @return bar
+#'
+$1 <- function( ) {
+    $0
+}   ## $1

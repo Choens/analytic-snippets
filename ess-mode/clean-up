@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name : clean-up
+# key: clean-up
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+if( exists("$1") ) rm($1)
+$0

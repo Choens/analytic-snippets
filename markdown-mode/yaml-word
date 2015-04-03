@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name : yaml-word
+# key: yaml-word
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: word_document
+---
+
+$0

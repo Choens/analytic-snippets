@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name : yaml-shuny
+# key: yaml-shiny
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+---
+title: "$1"
+author: "$2"
+date: "$3"
+output: html_document
+runtime: shiny
+---
+
+$0
