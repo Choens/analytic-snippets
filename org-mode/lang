@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : LANGUAGE
+# key: lang
+#contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+# --
+#+LANGUAGE: ${1:en}

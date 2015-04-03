@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : Tags
+# key: tags
+#contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+# --
+#+TAGS: $0

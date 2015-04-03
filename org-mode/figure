@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : figure
+# key: figure
+# --
+#+attr_latex: width=$1\textwidth
+[[file:$2.pdf]]
+$0

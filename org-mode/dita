@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name : DITAA
+# key: dita
+#contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
+# --
+#+BEGIN_DITAA ${1:export-file-name} -r -S -E
+${0}
+#+END_DITAA
