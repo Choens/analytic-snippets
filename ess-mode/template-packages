@@ -56,6 +56,11 @@ packages <- c(
     ## -------------------------------------------------------------------------
     ## Collection of other popular packages.
     ## -------------------------------------------------------------------------
+    ##,"amelia"         ## Amelia II "multiply imputes" missing data in a single
+                        ## cross-section (such as a survey), from a time series
+                        ## (like variables collected for each year in a country),
+                        ## or from a time-series-cross-sectional data set (such
+                        ## as collected by years for each of several countries). 
     ##,"ascii"          ## Coerce R object to asciidoc, txt2tags,
                         ## restructuredText, org, textile or pandoc syntax.
                         ## Package comes with a set of drivers for Sweave.
