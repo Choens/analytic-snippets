@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-# name : template-odbcStart
-# key: template-odbcStart
+# name : odbcStart.R
+# key: odbcStart.R
+# group: templates
 # contributor : Andy Choens andy.choens@gmail.com
 # --
 #' odbcStart

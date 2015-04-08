@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-# name : template-config
-# key: template-config
+# name : config.r
+# key: config.r
+# group: templates
 # contributor : Andy Choens andy.choens@gmail.com
 # --
 ## #############################################################################
@@ -42,9 +43,11 @@ if("passwords.R" %in% dir("~")) source("~/passwords.R")
 functions = dir("R", ".R", full.names=TRUE)
 functions = functions[!grepl("#", functions)] ## Removes Emacs temp files.
 functions = functions[!grepl("~", functions)] ## Removes Vim/Sublime temp files.
-for(i in 1:length(functions)) {
-    source(functions[i])
-    message(paste(functions[i], "' sourced.", sep=""))
+if(length(functions) > 0) {
+    for(i in 1:length(functions)) {
+        source(functions[i])
+        message(paste(functions[i], "' sourced.", sep=""))
+    }
 }
 rm(functions)
 

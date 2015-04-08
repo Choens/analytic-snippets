@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-# name : template-packages
-# key: template-packages
+# name : packages.R
+# key: packages.R
+# group: templates
 # contributor : Andy Choens andy.choens@gmail.com
 # --
 ## #############################################################################

@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-# name : template-script
-# key: template-script
+# name : analysis.R
+# key: analysis.R
+# group: templates
 # contributor : Andy Choens andy.choens@gmail.com
 # --
 ## #############################################################################
