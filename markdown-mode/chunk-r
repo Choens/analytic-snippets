@@ -1,8 +1,9 @@
 # -*- mode: snippet -*-
 # name : chunk-r
 # key: chunk-r
+# binding:C-M-i
 # contributor : Andy Choens andy.choens@gmail.com
 # --
-\`\`\`{r $0}
+\`\`\`{r $0, echo=FALSE, results="asis"}
 
 \`\`\`
