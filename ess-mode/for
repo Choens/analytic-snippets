@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name : for(
-# key: for(
+# name : for
+# key: for
 # Andy Choens andy.choens@gmail.com
 # --
 for( $1 in $2 ) {
