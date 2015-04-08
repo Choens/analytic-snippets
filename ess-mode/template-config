@@ -30,7 +30,7 @@
 
 ## Packages --------------------------------------------------------------------
 ## Uncomment any / all necessary packages in the packages.R file.
-source("packages.R")
+if( "packages.R" %in% dir()) source("packages.R")
 
 ## Passwords -------------------------------------------------------------------
 ## Place database or other passwords that are needed, but do not belong in
