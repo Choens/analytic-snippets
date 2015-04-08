@@ -56,7 +56,7 @@ packages <- c(
     ## -------------------------------------------------------------------------
     ## Collection of other popular packages.
     ## -------------------------------------------------------------------------
-    ##,"amelia"         ## Amelia II "multiply imputes" missing data in a single
+    ##,"Amelia"         ## Amelia II "multiply imputes" missing data in a single
                         ## cross-section (such as a survey), from a time series
                         ## (like variables collected for each year in a country),
                         ## or from a time-series-cross-sectional data set (such
