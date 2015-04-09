@@ -130,7 +130,7 @@ load_packages = function(packages, install_missing = TRUE) {
     ## Attempts to install missing packages ----------------------------------------
     if( length(missing_packages) > 0 & install_missing == TRUE ) {
         warning("You are missing packages from packages.")
-        warning("pdating current packages before installing new packages.")
+        warning("Updating current packages before installing new packages.")
         update.packages(ask=FALSE)
         message( "Installing the following packages:" )
         message( missing_packages)
