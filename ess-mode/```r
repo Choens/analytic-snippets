@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name : ```r
+# key: ```r
+# binding:C-M-i
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+\`\`\`{r $0, echo=FALSE, eval=TRUE, results="asis"}
+
+\`\`\`
