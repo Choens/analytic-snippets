@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name : notes
+# key: notes
+# contributor : Andy Choens andy.choens@gmail.com
+# --
+<div class="notes">
+
+$0
+
+</div>
